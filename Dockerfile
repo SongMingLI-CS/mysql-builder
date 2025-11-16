@@ -1,2 +1,1 @@
-FROM mysql:8.0
-# Trigger build
+FROM openjdk:21-jdk-slim
